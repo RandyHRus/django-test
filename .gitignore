@@ -1,0 +1,40 @@
+# Django project files
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Secret key
+secret_key.txt
+
+# Static files
+staticfiles/
+static/
+
+# Media files
+media/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pydevproject
+
+# Mac
+.DS_Store
+
+# Log files
+*.log
+
+# Compiled Python files
+__pycache__/
+
+# Backup files
+*~
+*.bak
